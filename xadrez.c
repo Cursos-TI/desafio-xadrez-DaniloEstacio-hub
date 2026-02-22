@@ -36,6 +36,24 @@ for(int rainha=0; rainha < 8; rainha++)
 
 }
 
+printf("\n");
+ 
+  // movimento cavalo 
+  for(int i=1;i <=1; i++){
+
+int j=1;    
+   while (j<=2)
+
+   {
+    printf("Cavalo cima\n");
+    j++;
+   }
+   
+printf("Cavalo Direita\n");
+  }
+
+   
+
 
 
 
